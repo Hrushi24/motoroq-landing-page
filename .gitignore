@@ -1,0 +1,25 @@
+# Build output
+.next/
+
+# Node packages
+node_modules/
+
+# Environment variables
+.env
+.env.*
+.next-env.d.ts
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+*.swo
