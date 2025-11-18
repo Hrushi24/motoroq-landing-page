@@ -75,17 +75,17 @@ export default function Home() {
 
           {/* Features Grid */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-16">
-            <div className="p-6 bg-card/50 border border-border/50 rounded-lg shadow-[inset_0_0_20px_rgba(220,38,38,0.15)] hover:shadow-[inset_0_0_25px_rgba(220,38,38,0.25)] transition-shadow">
+            <div className="p-6 bg-card/50 border border-border/50 rounded-lg shadow-[inset_0_0_20px_rgba(220,38,38,0.40)] hover:shadow-[inset_0_0_25px_rgba(220,38,38,0.25)] transition-shadow">
               <div className="text-3xl mb-3">⚡</div>
               <h3 className="font-bold text-lg mb-2">Premium Quality</h3>
               <p className="text-sm text-muted-foreground">Curated selection of top-tier bike accessories</p>
             </div>
-            <div className="p-6 bg-card/50 border border-border/50 rounded-lg shadow-[inset_0_0_20px_rgba(220,38,38,0.15)] hover:shadow-[inset_0_0_25px_rgba(220,38,38,0.25)] transition-shadow">
+            <div className="p-6 bg-card/50 border border-border/50 rounded-lg shadow-[inset_0_0_20px_rgba(220,38,38,0.40)] hover:shadow-[inset_0_0_25px_rgba(220,38,38,0.25)] transition-shadow">
               <div className="text-3xl mb-3">🚀</div>
               <h3 className="font-bold text-lg mb-2">Fast Shipping</h3>
               <p className="text-sm text-muted-foreground">Quick delivery to get you riding sooner</p>
             </div>
-            <div className="p-6 bg-card/50 border border-border/50 rounded-lg shadow-[inset_0_0_20px_rgba(220,38,38,0.15)] hover:shadow-[inset_0_0_25px_rgba(220,38,38,0.25)] transition-shadow">
+            <div className="p-6 bg-card/50 border border-border/50 rounded-lg shadow-[inset_0_0_20px_rgba(220,38,38,0.40)] hover:shadow-[inset_0_0_25px_rgba(220,38,38,0.25)] transition-shadow">
               <div className="text-3xl mb-3">💯</div>
               <h3 className="font-bold text-lg mb-2">Best Prices</h3>
               <p className="text-sm text-muted-foreground">Competitive pricing on all gear and accessories</p>
