@@ -10,12 +10,13 @@ export function Footer() {
         <div className="grid md:grid-cols-3 gap-8 mb-12">
           {/* Brand */}
           <div>
-            <div className="flex items-center mb-4">
+            <div className="flex items-center gap-3 mb-4">
               <img 
                 src="/motoroq-logo.png" 
                 alt="Motoroq - Superbike Parts" 
                 className="h-12 w-auto"
               />
+              <span className="text-xl font-bold tracking-wider text-[#4a6fa5]">MOTOROQ</span>
             </div>
             <p className="text-muted-foreground">Premium bike accessories & gear launching soon. Be among the first to know.</p>
           </div>
