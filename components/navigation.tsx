@@ -1,5 +1,5 @@
 export function Navigation() {
-  const whatsappNumber = '918425946677'
+  const whatsappNumber = '919594993456'
   const whatsappMessage = encodeURIComponent("Hi, I'd like to know more about Motoroq")
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`
   const instagramUrl = 'https://www.instagram.com/_abhishek153'
