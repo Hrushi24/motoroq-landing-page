@@ -2,7 +2,7 @@ export function Navigation() {
   const whatsappNumber = '919594993456'
   const whatsappMessage = encodeURIComponent("Hi, I'd like to know more about Motoroq")
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`
-  const instagramUrl = 'https://www.instagram.com/_abhishek153'
+  const instagramUrl = 'https://www.instagram.com/motoroqdotcom/'
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-[#1a2744]/95 backdrop-blur-md border-b border-[#2a3a5c]">
