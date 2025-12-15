@@ -2,7 +2,7 @@ export function Footer() {
   const whatsappNumber = '919594993456'
   const whatsappMessage = encodeURIComponent("Hi, I'd like to know more about Motoroq")
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`
-  const instagramUrl = 'https://www.instagram.com/_abhishek153'
+  const instagramUrl = 'https://www.instagram.com/motoroqdotcom/'
 
   return (
     <footer className="bg-card border-t border-border">
